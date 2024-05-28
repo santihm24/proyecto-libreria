@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "identificacion": "1225097654",
+        "nombre": "Santiago",
+        "apellido": "Hoyos",
+        "email": "santiago@gmail.com",
+        "direccion": "la isla cuba akkko",
+        "telefono": "3198766765",
+        "fechaNacimiento": "1999-11-25",
+        "password": "Sa12345678@",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-04-22T20:11:21.666Z"
+    },
+    {
+        "id": 2,
+        "identificacion": "12233",
+        "nombre": "Santiago",
+        "apellido": "Hoyos",
+        "email": "santiago1@gmail.com",
+        "direccion": "la isla cuba akkko",
+        "telefono": "3124567896",
+        "fechaNacimiento": "2024-04-22",
+        "password": "Sa12345678@",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-04-22T21:43:59.373Z"
+    },
+    {
+        "id": 3,
+        "identificacion": "1225094537",
+        "nombre": "Santiago",
+        "apellido": "Hoyos m",
+        "email": "santiago12@gmail.com",
+        "direccion": "la isla cuba akkko",
+        "telefono": "3128768976",
+        "fechaNacimiento": "2024-05-07",
+        "password": "Santi123@",
+        "estado": "activo",
+        "rol": "Usuario",
+        "fecha_creacion": "2024-05-07T18:46:15.733Z"
+    }
+]
